@@ -11,6 +11,9 @@ import csv
 '''
 Test comment
 '''
+'''
+Test comment 2
+'''
 
 class Inventory:
 
